@@ -24,6 +24,7 @@ Feel free to reach out if you have any questions, want to collaborate on a proje
 
 Let's connect:
 - [LinkedIn](https://www.linkedin.com/in/samson-offorjindu/)
-- [Twitter](https://www.instagram.com/knez.sam/)
+- [Instagram](https://www.instagram.com/knez.sam/)
 
 Thank you for stopping by! 😊
+DOVIĐENJA 💫🌠😎
