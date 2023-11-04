@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about crafting beautiful, user-frie
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to chat about web development and design. I'm always up for a good conversation!
 
 Let's connect:
-- [LinkedIn]([link-to-LinkedIn-profile](https://www.linkedin.com/in/samson-offorjindu/))
-- [Twitter]([link-to-Twitter-profile](https://www.instagram.com/knez.sam/)https://www.instagram.com/knez.sam/)
+- [LinkedIn](https://www.linkedin.com/in/samson-offorjindu/)
+- [Twitter](https://www.instagram.com/knez.sam/)
 
 Thank you for stopping by! 😊
