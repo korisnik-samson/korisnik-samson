@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about crafting beautiful, user-frie
 
 ## 📚 Schooling
 
-🎓 Currently, I'm pursuing my education at ([Singidunum University](https://singidunum.ac.rs)), where I'm honing my Software & Data Engineering skills and continuously expanding my knowledge.
+🎓 Currently, I'm pursuing my education at [Singidunum University](https://singidunum.ac.rs), where I'm honing my Software & Data Engineering skills and continuously expanding my knowledge.
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to chat about web development and design. I'm always up for a good conversation!
 
