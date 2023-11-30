@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about crafting beautiful, user-frie
 🌟 Here are some of the projects I've worked on that showcase my skills as a Frontend Developer:
 
 1. [Socail Media App](https://github.com/korisnik-samson/social): Here it's basically me trying to make a combination of Threads, Instagram, and Snapchat... in one app... kao šećer, žacin i sve lepo 💀
-2. [Socail Media App](https://github.com/korisnik-samson/chatpdf): Who needs ChatGPT, why you've got your own pocket GPT at your service, every information generated from this AI model are all from uploaded documents, thereby getting rid of data accuracy and many other problems!
+2. [ChatPDF](https://github.com/korisnik-samson/chatpdf): Who needs ChatGPT, why you've got your own pocket GPT at your service, every information generated from this AI model are all from uploaded documents, thereby getting rid of data accuracy and many other problems!
 3. [Artificial Intelligence](https://github.com/korisnik-samson/income-predictor): Since most people within the working class are broke, this will predict if you can make $50,000/yr
 4. [Car Rental System](https://github.com/korisnik-samson/car-octo-system): People can't afford cars today, so they rent them... Rent yours from my website, it's cheap asf!
 5. [Denver Music App](https://github.com/korisnik-samson/denver): Who needs Spotify, when you've got Denver from your boy Sam :)
