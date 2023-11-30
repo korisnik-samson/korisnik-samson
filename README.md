@@ -7,12 +7,13 @@ Welcome to my GitHub profile! I'm passionate about crafting beautiful, user-frie
 🌟 Here are some of the projects I've worked on that showcase my skills as a Frontend Developer:
 
 1. [Socail Media App](https://github.com/korisnik-samson/social): Here it's basically me trying to make a combination of Threads, Instagram, and Snapchat... in one app... kao šećer, žacin i sve lepo 💀
-2. [Artificial Intelligence](https://github.com/korisnik-samson/income-predictor): Since most people within the working class are broke, this will predict if you can make $50,000/yr
-3. [Car Rental System](https://github.com/korisnik-samson/car-octo-system): People can't afford cars today, so they rent them... Rent yours from my website, it's cheap asf!
-4. [Denver Music App](https://github.com/korisnik-samson/denver): Who needs Spotify, when you've got Denver from your boy Sam :)
-5. [Console Chess](https://github.com/korisnik-samson/console-chess-sans): We don't really give a rat's ass about real chess when it can be played on a computer?!
-6. [Trip Guides](https://github.com/korisnik-samson/travel-booking): With my app, it's impossible to get lost... I want you to try as hard as you can... You'll never get lost 😈
-7. [Generic Binary Trees](https://github.com/samson-offorjindu/Generic-Binary-Tree): Some algorithm in Java... but on crack 💫🌠✨
+2. [Socail Media App](https://github.com/korisnik-samson/chatpdf): Who needs ChatGPT, why you've got your own pocket GPT at your service, every information generated from this AI model are all from uploaded documents, thereby getting rid of data accuracy and many other problems!
+3. [Artificial Intelligence](https://github.com/korisnik-samson/income-predictor): Since most people within the working class are broke, this will predict if you can make $50,000/yr
+4. [Car Rental System](https://github.com/korisnik-samson/car-octo-system): People can't afford cars today, so they rent them... Rent yours from my website, it's cheap asf!
+5. [Denver Music App](https://github.com/korisnik-samson/denver): Who needs Spotify, when you've got Denver from your boy Sam :)
+6. [Console Chess](https://github.com/korisnik-samson/console-chess-sans): We don't really give a rat's ass about real chess when it can be played on a computer?!
+7. [Trip Guides](https://github.com/korisnik-samson/travel-booking): With my app, it's impossible to get lost... I want you to try as hard as you can... You'll never get lost 😈
+8. [Generic Binary Trees](https://github.com/samson-offorjindu/Generic-Binary-Tree): Some algorithm in Java... but on crack 💫🌠✨
 
 💼 You can explore more of my work and projects on my [portfolio website](https://myportfolio-sam.vercel.app/) to see how I turn ideas into visually appealing web applications.
 
