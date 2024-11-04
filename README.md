@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about crafting beautiful, user-frie
 5. [Denver Music App](https://github.com/korisnik-samson/denver): Who needs Spotify, when you've got Denver from your boy Sam :)
 6. [Console Chess](https://github.com/korisnik-samson/console-chess-sans): We don't really give a rat's ass about real chess when it can be played on a computer?!
 7. [Trip Guides](https://github.com/korisnik-samson/travel-booking): With my app, it's impossible to get lost... I want you to try as hard as you can... You'll never get lost 😈
-8. [Generic Binary Trees](https://github.com/samson-offorjindu/Generic-Binary-Tree): Some algorithm in Java... but on crack 💫🌠✨
+8. [Generic Binary Trees](https://github.com/samson-offorjindu/Generic-Binary-Tree): Some algorithm in Java... but on steroids 💫🌠✨
 
 💼 You can explore more of my work and projects on my [portfolio website](https://myportfolio-sam.vercel.app/) to see how I turn ideas into visually appealing web applications.
 
