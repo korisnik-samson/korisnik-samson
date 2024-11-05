@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Samson - Aspiring Machine Learning Engineer & Frontend Developer Extraordinaire! 🚀
+# 👋 Hello, I'm Samson - Aspiring Machine Learning Engineer & Software Engineer Extraordinaire! 🚀
 
 Welcome to my GitHub profile! I'm passionate about crafting beautiful, user-friendly web experiences that make the digital world come to life. With a keen eye for design and a love for clean, efficient code, I'm dedicated to making the web a better place, one line of code at a time.
 
