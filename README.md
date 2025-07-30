@@ -1,27 +1,27 @@
-# 👋 Hello, I'm Samson - Aspiring Machine Learning Engineer & Software Engineer Extraordinaire! 🚀
+# 👋 Hi, I'm Samson - Aspiring Machine Learning Engineer & Software Engineer Extraordinaire! 🚀
 
-Welcome to my GitHub profile! I'm passionate about crafting beautiful, user-friendly web experiences that make the digital world come to life. With a keen eye for design and a love for clean, efficient code, I'm dedicated to making the web a better place, one line of code at a time.
+Welcome to my GitHub profile! I'm a final-year Computer Science student passionate about engineering robust, scalable backend systems and end-to-end data pipelines. My focus is on writing clean, efficient code to solve complex problems, from processing real-time data streams to building intelligent applications. I thrive on turning complex technical challenges into reliable, high-performance software.
 
-## 🛠️ Projects & Portfolio
+## 🛠️ Featured Projects
 
 🌟 Here are some of the projects I've worked on that showcase my skills as a Frontend Developer:
 
-1. [Socail Media App](https://github.com/korisnik-samson/social): Here it's basically me trying to make a combination of Threads, Instagram, and Snapchat... in one app... kao šećer, žacin i sve lepo 💀
-2. [ChatPDF](https://github.com/korisnik-samson/chatpdf): Who needs ChatGPT, why you've got your own pocket GPT at your service, every information generated from this AI model are all from uploaded documents, thereby getting rid of data accuracy and many other problems!
-3. [Artificial Intelligence](https://github.com/korisnik-samson/income-predictor): Since most people within the working class are broke, this will predict if you can make $50,000/yr
-4. [Car Rental System](https://github.com/korisnik-samson/car-octo-system): People can't afford cars today, so they rent them... Rent yours from my website, it's cheap asf!
+1. [Financial Data Pipeline](https://github.com/korisnik-samson/social): Born and raised in PySpark wombs, engineered in an end-to-end data pipeline for real-time financial collection and processing... put your money where your tech is!
+2. [AI Intrusion Detection System](https://github.com/korisnik-samson/chatpdf): We've all been there, so let's cut to the chase. It's just your normal glorified antivirus with a second brain specially trained to sniff malicous threats, have fun 💫🌠✨
+3. [Brain Tumour Segmentation Research](https://github.com/korisnik-samson/income-predictor): Since most people (especially neurologists and radiologists) make sublte mistakes in manually delineating brain tumours from scans, we gave them a helping hand... Don't worry we can't cure you either ❤️
+4. [Formula One Data Pipeline](https://github.com/korisnik-samson/car-octo-system): We got data hungry, so Formula One data gave us what we needed for a meal. P.S It was sumptuous
 5. [Denver Music App](https://github.com/korisnik-samson/denver): Who needs Spotify, when you've got Denver from your boy Sam :)
 6. [Console Chess](https://github.com/korisnik-samson/console-chess-sans): We don't really give a rat's ass about real chess when it can be played on a computer?!
 7. [Trip Guides](https://github.com/korisnik-samson/travel-booking): With my app, it's impossible to get lost... I want you to try as hard as you can... You'll never get lost 😈
 8. [Generic Binary Trees](https://github.com/samson-offorjindu/Generic-Binary-Tree): Some algorithm in Java... but on steroids 💫🌠✨
 
-💼 You can explore more of my work and projects on my [portfolio website](https://myportfolio-sam.vercel.app/) to see how I turn ideas into visually appealing web applications.
+💼 I currently work at a university... who would've thought huh...
 
 ## 📚 Schooling
 
-🎓 Currently, I'm pursuing my education at [Singidunum University](https://singidunum.ac.rs), where I'm honing my Software & Data Engineering skills and continuously expanding my knowledge.
+🎓 Currently, I'm a bachelor's degree holder thanks to [Singidunum University](https://singidunum.ac.rs), where I'm *still* honing my Software & Data Engineering skills and continuously expanding my knowledge.
 
-Feel free to reach out if you have any questions, want to collaborate on a project, or just want to chat about web development and design. I'm always up for a good conversation!
+Feel free to reach out if you have any questions, want to collaborate on a project, or just want to chat about research, machine learning or web dev and design. I'm always up for a good conversation!
 
 Let's connect:
 - [LinkedIn](https://www.linkedin.com/in/samson-offorjindu/)
