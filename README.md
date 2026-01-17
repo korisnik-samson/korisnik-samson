@@ -22,7 +22,7 @@ I am a **Software & Data Engineer** based in Belgrade, passionate about architec
 | Domain | Technologies |
 | :--- | :--- |
 | **Backend Engineering** | Java (Spring Boot, Hibernate), Python, RESTful APIs, Microservices, JUnit |
-| **Data & AI** | PySpark, PyTorch, TensorFlow, OpenCV, Pandas, Scikit-learn |
+| **Data & AI/ML** | PySpark, PyTorch, TensorFlow, OpenCV, Pandas, Scikit-learn |
 | **Cloud & DevOps** | AWS (S3, Lambda), Azure, Docker, Kubernetes, Git |
 | **Databases** | MySQL, PostgreSQL, Oracle, MongoDB (NoSQL) |
 
