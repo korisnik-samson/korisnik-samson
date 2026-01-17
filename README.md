@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software & Data Engineer** based in Belgrade, passionate about architecting robust backend systems and engineering scalable data pipelines. Currently, I serve as a **Teaching Associate** at Singidunum University, where I work and collaborate with professors in many fields of Software Engineering through academic research and course administration.
+I am a **Software & Data Engineer** based in Belgrade, passionate about bnuilding robust backend systems and engineering scalable data pipelines as well as machine learning algorithms in practice and research. Currently, I serve as a **Teaching Associate** at Singidunum University, where I work and collaborate with professors in many fields of Software Engineering through academic research and course administration.
 
 * 🔭 **I’m currently working on:** Real-time Intrusion Detection & Prevention systems with ML Algorithms.
 * 🌱 **I’m currently learning:** Advanced Microservices in Spring Boot.
