@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software & Data Engineer** based in Belgrade, passionate about architecting robust backend systems and engineering scalable data pipelines. Currently, I serve as a **Teaching Associate** at Singidunum University, where I help the next generation of engineers master Algorithms & Data Structures.
+I am a **Software & Data Engineer** based in Belgrade, passionate about architecting robust backend systems and engineering scalable data pipelines. Currently, I serve as a **Teaching Associate** at Singidunum University, where I work and collaborate with professors in many fields of Software Engineering through academic research and course administration.
 
-* 🔭 **I’m currently working on:** Advanced Deep Learning optimization (Adam variants) for Medical Imaging.
+* 🔭 **I’m currently working on:** Real-time Intrusion Detection & Prevention systems with ML Algorithms.
 * 🌱 **I’m currently learning:** Modern micro-frontend architectures and TypeScript.
-* 💡 **My superpower:** Bridging the gap between complex mathematical theory (AI/ML) and production-grade software engineering.
+* 💡 **My superpower:** Bridging the gap between complex mathematical theory (AI/ML) and production-grade software development and engineering.
 
 ---
 
@@ -36,20 +36,22 @@ I am a **Software & Data Engineer** based in Belgrade, passionate about architec
 * **The Solution:** Conducted research on six Adam optimizer variants using a hybrid deep learning model on the large-scale BraTS 2020 dataset.
 * **Tech Stack:** Python, PyTorch, Pandas, Deep Learning.
 
-#### 🏎️ [Formula One Data Pipeline (Big Data)](https://github.com/korisnik-samson/car-octo-system)
+#### 🏎️ [Formula One Data Pipeline (Big Data)](https://github.com/korisnik-samson/vulterra)
 * **Overview:** A complete ETL pipeline designed to ingest, process, and analyze massive volumes of historical F1 telemetry data.
 * **Impact:** Enabled complex SQL querying for in-depth race analysis and reporting.
 * **Tech Stack:** Python, PySpark, AWS Cloud, SQL.
 
-#### 🛡️ [AI-Powered Intrusion Detection System](https://github.com/korisnik-samson/chatpdf)
+#### 🛡️ [AI-Powered Intrusion Detection System](https://github.com/korisnik-samson/vulterra)
 * **Overview:** A real-time network security system that utilizes machine learning to "sniff out" malicious threats better than standard rule-based firewalls.
 * **Methodology:** Processed large-scale telemetry data (UNSW-NB15) to train models for identifying network anomalies.
 * **Tech Stack:** Scikit-learn, PySpark MLlib, Python.
 
-#### 🚕 [Marfi Taxi / Backend Architecture](https://github.com/korisnik-samson/social)
+#### 🚕 [Marfi Taxi / Backend Architecture](https://github.com/lukazd99/Radio777)
 * **Overview:** Architected the core driver-rider matching algorithm and real-time payment processing for a ride-hailing platform.
 * **Key Achievement:** Implemented Spring Security for robust authentication and optimized Oracle DB queries for rapid matching.
 * **Tech Stack:** Java, Spring Boot, Spring Data JPA, Oracle DB.
+
+**P.S I have a lot of projects I work on... Feel free to explore my jungle of repositories**
 
 ---
 
@@ -65,7 +67,7 @@ I am a **Software & Data Engineer** based in Belgrade, passionate about architec
 ### 🎓 Education & Certifications
 
 * **B.S. Software & Data Engineering** - Singidunum University (2021-2025)
-* **Cisco CCNA** | **IBM Rational Software Architect** | **RedHat OS Admin**
+* **Cisco CCNA** | **IBM Rational Software Architect** | **RedHat OS System Admin**
 
 <div align="center">
     <i>Let's connect and build something incredible! 💫🌠</i>
