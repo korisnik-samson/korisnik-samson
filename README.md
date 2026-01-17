@@ -12,8 +12,8 @@
 I am a **Software & Data Engineer** based in Belgrade, passionate about architecting robust backend systems and engineering scalable data pipelines. Currently, I serve as a **Teaching Associate** at Singidunum University, where I work and collaborate with professors in many fields of Software Engineering through academic research and course administration.
 
 * 🔭 **I’m currently working on:** Real-time Intrusion Detection & Prevention systems with ML Algorithms.
-* 🌱 **I’m currently learning:** Modern micro-frontend architectures and TypeScript.
-* 💡 **My superpower:** Bridging the gap between complex mathematical theory (AI/ML) and production-grade software development and engineering.
+* 🌱 **I’m currently learning:** Advanced Microservices in Spring Boot.
+* 💡 **I have a knack for:** Bridging the gap between complex mathematical theory (AI/ML) and production-grade software development and engineering.
 
 ---
 
@@ -30,18 +30,18 @@ I am a **Software & Data Engineer** based in Belgrade, passionate about architec
 
 ### 🚀 Featured Projects & Research
 
-#### 🧠 [Medical Image Segmentation Research (BraTS 2020)](https://github.com/korisnik-samson/income-predictor)
+#### 🧠 [Medical Image Segmentation Research (BraTS 2020)](https://github.com/korisnik-samson/BraTS-2020-Segmentation-Task)
 *Research presented at Sinteza 2025 International Scientific Conference.*
 * **The Challenge:** Improving brain tumor segmentation accuracy in MRI scans.
 * **The Solution:** Conducted research on six Adam optimizer variants using a hybrid deep learning model on the large-scale BraTS 2020 dataset.
 * **Tech Stack:** Python, PyTorch, Pandas, Deep Learning.
 
-#### 🏎️ [Formula One Data Pipeline (Big Data)](https://github.com/korisnik-samson/vulterra)
+#### 🏎️ [Formula One Data Pipeline (Big Data)](https://github.com/korisnik-samson/data-fusion_feature-extraction/blob/main/dffe_hw3/HW3%20Samson%20Offorjindu%20NP.ipynb)
 * **Overview:** A complete ETL pipeline designed to ingest, process, and analyze massive volumes of historical F1 telemetry data.
 * **Impact:** Enabled complex SQL querying for in-depth race analysis and reporting.
 * **Tech Stack:** Python, PySpark, AWS Cloud, SQL.
 
-#### 🛡️ [AI-Powered Intrusion Detection System](https://github.com/korisnik-samson/vulterra)
+#### 🛡️ [Real-time ML Intrusion Detection System](https://github.com/korisnik-samson/vulterra)
 * **Overview:** A real-time network security system that utilizes machine learning to "sniff out" malicious threats better than standard rule-based firewalls.
 * **Methodology:** Processed large-scale telemetry data (UNSW-NB15) to train models for identifying network anomalies.
 * **Tech Stack:** Scikit-learn, PySpark MLlib, Python.
