@@ -58,8 +58,8 @@ I am a **Software & Data Engineer** based in Belgrade, passionate about architec
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=korisnik-samson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korisnik-samson&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=korisnik-samson&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korisnik-samson&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
