@@ -60,6 +60,7 @@ I am a **Software & Data Engineer** based in Belgrade, passionate about bnuildin
 ### 🎓 Education & Certifications
 
 * **B.S. Software & Data Engineering** - Singidunum University (2021-2025)
+* **M.Sc. Data Science** - Singidunum University (2025-2026)
 * **Cisco CCNA** | **IBM Rational Software Architect** | **RedHat OS System Admin**
 
 <div align="center">
